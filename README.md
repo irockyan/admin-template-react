@@ -1,2 +1,1 @@
-# admin-template-react
-react 管理后台模版
+# 后台管理系统 - react
